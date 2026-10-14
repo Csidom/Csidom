@@ -1,8 +1,8 @@
 # Hello!
 
-* NEEM VAGYOK BUZI *
-* HAZA AKAROK MENNI *
-* amugy kb ennyi.. *
+* NEEM VAGYOK BUZI 
+* HAZA AKAROK MENNI 
+* amugy kb ennyi.. 
 
 ### ja.. tenyleg csak ennyi volt...
 
